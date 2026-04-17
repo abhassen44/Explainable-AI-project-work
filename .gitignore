@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+.venv_gpu
+env/
+venv/
+
+# Streamlit / Logs
+.streamlit/
+*.log
+
+# C C++
+*.o
+*.out
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Datasets
+*.csv
+datasets/
+test_data*.csv
+train_data*.csv
+*.txt
+*.zip
+
+# Keep requirements.txt even if we ignore txt by mistake
+!requirements.txt
+
+# Machine Learning related models / weights / preprocessors
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+models/
