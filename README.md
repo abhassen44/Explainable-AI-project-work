@@ -1,4 +1,4 @@
-# 🧠 Explainable AI (XAI) Project Work
+#  Explainable AI (XAI) Project Work
 
 This repository serves as a centralized portfolio for exploring and applying **Explainable Artificial Intelligence (XAI)** techniques. In modern machine learning, complex architectures like Deep Neural Networks or advanced ensemble models often act as "black boxes" — they provide high-accuracy predictions, but no reasoning behind those predictions. 
 
@@ -6,7 +6,7 @@ This project work aims to bridge the gap between high predictive performance and
 
 ---
 
-## 🔍 What Are We Doing Through XAI?
+##  What Are We Doing Through XAI?
 
 The core objective across all sub-projects in this repository is to demonstrate *how* and *why* these black-box AI algorithms make their decisions. We achieve this transparency primarily through the integration of two leading XAI methodologies:
 
@@ -40,7 +40,7 @@ The repository is structured into three distinct projects, each applying XAI to 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Each project folder is self-contained with its own specific Virtual Environment configuration (`setup_venv.ps1`), `requirements.txt`, Model build scripts, evaluation tools, and interactive `app.py` or `dashboard.py` Streamlit applications.
 
