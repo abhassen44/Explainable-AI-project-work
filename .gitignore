@@ -46,3 +46,9 @@ train_data*.csv
 *.pth
 *.onnx
 models/
+
+
+arch/
+report.tex
+report.md
+Abhas_sen(2301006)_report.pdf
